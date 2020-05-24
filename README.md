@@ -13,6 +13,5 @@ Bin2Dec permite o usuário digitar uma string de 8 dígitos binários, 0's e 1's
 # Bonus
 - [x] O Usuário pode informar uma quantidade variável de dígitos binários.
 -------
-# Exemplo do projeto finalizado
 ![](https://i.imgur.com/l2fa4yW.png)
 
