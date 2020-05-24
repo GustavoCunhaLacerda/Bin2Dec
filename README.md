@@ -6,9 +6,13 @@ Binário pe o sistema numérico em que todos os computadores digitais são basea
 Bin2Dec permite o usuário digitar uma string de 8 dígitos binários, 0's e 1's, em qualquer sequência e então exibir o decimal equivalente.
 
 # Recursos
-- [ ] O usuário pode digitr até 8 dígitps binários em um campo de entrada.
-- [ ] O usuário é notificado quando qualquer dígito diferente de 0 ou 1 é informado.
-- [ ] O usuário observa o resultado em um único campo de saída contendo um número decimal (base 10) equivalente ao número binário informado.
+- [x] O usuário pode digitr até 8 dígitps binários em um campo de entrada.
+- [x] O usuário é notificado quando qualquer dígito diferente de 0 ou 1 é informado.
+- [x] O usuário observa o resultado em um único campo de saída contendo um número decimal (base 10) equivalente ao número binário informado.
 
 # Bonus
-- [ ] O Usuário pode informar uma quantidade variável de dígitos binários.
+- [x] O Usuário pode informar uma quantidade variável de dígitos binários.
+-------
+# Exemplo do projeto finalizado
+![](https://i.imgur.com/l2fa4yW.png)
+
